@@ -1,0 +1,7 @@
+X = int(input());
+h= int(input());
+M = int(input());
+C= h*60+M;
+D=X+C;
+print(D//60);
+print(D%60);
