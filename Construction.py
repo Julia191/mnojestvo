@@ -113,3 +113,4 @@ elif (a < b and a < c) or (c > a and c > b):
         print(c);
         print(a);
         print(b);
+        # Задача 5
